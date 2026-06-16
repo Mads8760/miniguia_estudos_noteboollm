@@ -1,1 +1,3 @@
-# miniguia_estudos_noteboollm
+# Miniguia de estudos NotebookLLM
+
+## Contexto e Objetivos
